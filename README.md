@@ -1,14 +1,14 @@
 # Bibliotecas_Pandas
 
-#O dataset de Varejo que tenho em mãos é composto por informações de vendas de uma loja Virtual que atua em todo o território nacional, vendendo produtos de diferentes departementos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja própria, entre outros.
+#O dataset de Varejo que tenho em mãos é composto por informações de vendas de uma loja Virtual que atua em todo o território nacional, vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja própria, entre outros.
 
 O objetivo é criar métricas e KPIs para uma loja de varejo, unindo e tratando duas bases de dados: vendas e clientes.
 
 Veremos conceitos como joins entre tabelas, union entre bases, data visualization e premissas de negócio.
 
-#Premissas / Metricas:
+#Premissas / Métricas:
 
-Com bae nesse contexto e nas premissas de negocios estabelilecidos, podemos avaliar as seguintes métricas.
+Com base nesse contexto e nas premissas de negócios estabelecidos, podemos avaliar as seguintes métricas.
 
 1-Departamento mais vendidos.
 2-Média de preços com frete por departamento.
