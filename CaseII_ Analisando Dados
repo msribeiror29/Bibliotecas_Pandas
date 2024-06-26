@@ -1,17 +1,1 @@
-#O contexto do caso é: um cliente está buscando um apartamento para alugar com as seguintes premissas:
 
-Custo máximo: R$4.000 Localização: Barcelona ou Porto Quartos: 2 ou 3 Aceita animais Melhor custo-benefício possível.
-
-Serão abordados conceitos como:
-
-    -Importação e análise exploratória de dados
-
-    -Filtragem e refinamento de dados
-
-    -Análise de dados utilizando Python
-
-    -Visualização de dados
-
-    -Tomada de decisão com base em insights
-
-O objetivo é demonstrar na prática como a análise de dados pode ajudar a tomar decisões de negócio, neste caso, decidir qual o melhor apartamento para se alugar.
